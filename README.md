@@ -20,4 +20,13 @@ Lastly, the `performRevert` function uses the `revert` statement within an `if` 
 
 These error handling mechanisms help developers manage unexpected conditions and state changes within their smart contracts, enhancing security and reliability.
 
+## Authors
+
+Ritesh Jhadhav
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
